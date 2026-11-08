@@ -26,7 +26,7 @@ nicht. Ab einer Speichererweiterung mit 512KB spielt auch die Musik.
 
 | Taste | |
 |---|---|
-| Joystick im unteren Anschluss | laufen, Feuerknopf springt |
+| Joystick (Port 2) | laufen, Feuerknopf springt |
 | Pfeiltasten links/rechts | laufen |
 | Leertaste | springen |
 | P | Pause |
