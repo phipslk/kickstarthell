@@ -29,7 +29,6 @@ nicht. Ab einer Speichererweiterung mit 512KB spielt auch die Musik.
 | Joystick (Port 2) | laufen, Feuerknopf springt |
 | Pfeiltasten links/rechts | laufen |
 | Leertaste | springen |
-| P | Pause |
 | Esc | beenden |
 
 Auf dem Titelbild startet Feuer oder die Leertaste das Spiel.
