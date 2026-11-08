@@ -2,7 +2,7 @@
 
 # Kickstart Hell
 
-Ein Troll-Plattformer für den **Amiga 500**. Fünfzig Räume, und jeder einzelne
+Ein Prank-Plattformer für den **Amiga 500**. Fünfzig Räume, und jeder einzelne
 bricht sein Versprechen: Der Boden fällt weg, sobald man ihm traut. Die Stacheln
 fahren genau dann aus, wenn man springt. Die Tür läuft davon, kaum kommt man ihr
 nahe.
@@ -65,7 +65,7 @@ diese Lizenz.
 
 # Kickstart Hell
 
-A troll platformer for the **Amiga 500**. Fifty rooms, and every one of them
+A prank platformer for the **Amiga 500**. Fifty rooms, and every one of them
 breaks its promise: the floor drops away the moment you trust it. The spikes
 come out exactly when you jump. The door runs off as soon as you get near it.
 
