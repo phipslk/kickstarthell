@@ -60,6 +60,7 @@ Musik, sieben ProTracker-Module:
 Frei weiterzugeben, nicht zu verkaufen — die Einzelheiten stehen in
 [LICENSE](LICENSE). Die Musik gehört ihren Komponisten und fällt nicht unter
 diese Lizenz.
+
 ---
 
 # Kickstart Hell
