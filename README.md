@@ -16,9 +16,9 @@ Inspiriert von *Level Devil* (Unept, 2023).
 `KickstartHell.adf` auf eine Diskette schreiben oder in einen Emulator einlegen —
 die Diskette bootet sich selbst, es muss nichts installiert werden.
 
-Gebraucht wird ein **Amiga 500 mit Kickstart 1.3**. Auf einem unerweiterten
+Benötigt wird ein **Amiga 500 mit Kickstart 1.3**. Auf einem unerweiterten
 Gerät mit 512 KB läuft das Spiel, aber ohne Musik: dafür reicht der Speicher
-nicht. Mit der Speichererweiterung in der Bodenklappe (zusammen 1 MB) klingt sie.
+nicht. Ab einer Speichererweiterung mit 512KB spielt auch die Musik.
 
 ## Steuerung
 
@@ -33,9 +33,9 @@ nicht. Mit der Speichererweiterung in der Bodenklappe (zusammen 1 MB) klingt sie
 Auf dem Titelbild startet Feuer oder die Leertaste das Spiel.
 
 Wer durch alle fünfzig Räume kommt, darf sich mit seiner Anzahl Tode in die
-Bestenliste eintragen. Sie bleibt auf der Diskette stehen — eine
-schreibgeschützte Diskette ist dem Spiel aber auch recht, dann merkt es sie sich
-eben nicht.
+Bestenliste eintragen. Die Highscoreliste wird automatisch abgespeichert.
+
+Wer schafft es, ohne zu sterben?
 
 ## Mitgewirkt
 
