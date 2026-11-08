@@ -1,3 +1,5 @@
+<img width="320" height="153" alt="titel6" src="https://github.com/user-attachments/assets/d06c8c85-8b02-4e4c-8125-3f8c5429c407" />
+
 # Kickstart Hell
 
 Ein Troll-Plattformer für den **Amiga 500**. Fünfzig Räume, und jeder einzelne
