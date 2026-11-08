@@ -60,3 +60,63 @@ Musik, sieben ProTracker-Module:
 Frei weiterzugeben, nicht zu verkaufen — die Einzelheiten stehen in
 [LICENSE](LICENSE). Die Musik gehört ihren Komponisten und fällt nicht unter
 diese Lizenz.
+---
+
+# Kickstart Hell
+
+A troll platformer for the **Amiga 500**. Fifty rooms, and every one of them
+breaks its promise: the floor drops away the moment you trust it. The spikes
+come out exactly when you jump. The door runs off as soon as you get near it.
+
+The twist: the game doesn't only troll you with traps in the room, but with the
+Amiga itself. Fake Guru Meditations, fake requesters, a screen that slides
+away, a loading bar that never finishes.
+
+Inspired by *Level Devil* (Unept, 2023).
+
+## Running it
+
+Write `KickstartHell.adf` to a floppy or put it into an emulator -- the disk
+boots on its own, nothing has to be installed.
+
+You need an **Amiga 500 with Kickstart 1.3**. On an unexpanded machine with
+512 KB the game runs, but without music: there isn't enough memory for it. With
+a 512 KB memory expansion the music plays as well.
+
+## Controls
+
+| Key | |
+|---|---|
+| Joystick (port 2) | walk, fire button jumps |
+| Cursor keys left/right | walk |
+| Space | jump |
+| Esc | quit |
+
+On the title screen, fire or the space bar starts the game.
+
+Anyone who gets through all fifty rooms may enter the list of best players with
+their number of deaths. The high score list is saved automatically.
+
+Who can do it without dying?
+
+## Credits
+
+Game and graphics: **Philipp Lonke**
+Title picture: **Kay Pirinha**
+
+Music, seven ProTracker modules:
+
+| | |
+|---|---|
+| *Caribbean* -- nuke of anarchy | title screen |
+| *Out On A Limb* -- 4-mat | rooms 1-9 |
+| *helvedes s0d* -- curt cool | from room 10 |
+| *it was future then* -- curt cool | from room 20 |
+| *Mountains* -- 4-mat | from room 40 |
+| *chiptune no. 137* -- curt cool | you-made-it screen |
+| *the real thing* -- curt cool | list of best players |
+
+## Licence
+
+Free to pass on, not to sell -- the details are in [LICENSE](LICENSE). The music
+belongs to its composers and is not covered by this licence.
