@@ -95,8 +95,8 @@ a 512 KB memory expansion the music plays as well.
 
 On the title screen, fire or the space bar starts the game.
 
-Anyone who gets through all fifty rooms may enter the list of best players with
-their number of deaths. The high score list is saved automatically.
+Anyone who gets through all fifty rooms may enter the highscore list with
+their number of deaths. The highscore list is saved automatically.
 
 Who can do it without dying?
 
@@ -114,8 +114,8 @@ Music, seven ProTracker modules:
 | *helvedes s0d* — curt cool | from room 10 |
 | *it was future then* — curt cool | from room 20 |
 | *Mountains* — 4-mat | from room 40 |
-| *chiptune no. 137* — curt cool | you-made-it screen |
-| *the real thing* — curt cool | list of best players |
+| *chiptune no. 137* — curt cool | well done screen |
+| *the real thing* — curt cool | highscore list |
 
 ## Licence
 
