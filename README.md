@@ -77,7 +77,7 @@ Inspired by *Level Devil* (Unept, 2023).
 
 ## Running it
 
-Write `KickstartHell.adf` to a floppy or put it into an emulator -- the disk
+Write `KickstartHell.adf` to a floppy or put it into an emulator — the disk
 boots on its own, nothing has to be installed.
 
 You need an **Amiga 500 with Kickstart 1.3**. On an unexpanded machine with
@@ -109,15 +109,15 @@ Music, seven ProTracker modules:
 
 | | |
 |---|---|
-| *Caribbean* -- nuke of anarchy | title screen |
-| *Out On A Limb* -- 4-mat | rooms 1-9 |
-| *helvedes s0d* -- curt cool | from room 10 |
-| *it was future then* -- curt cool | from room 20 |
-| *Mountains* -- 4-mat | from room 40 |
-| *chiptune no. 137* -- curt cool | you-made-it screen |
-| *the real thing* -- curt cool | list of best players |
+| *Caribbean* — nuke of anarchy | title screen |
+| *Out On A Limb* — 4-mat | rooms 1–9 |
+| *helvedes s0d* — curt cool | from room 10 |
+| *it was future then* — curt cool | from room 20 |
+| *Mountains* — 4-mat | from room 40 |
+| *chiptune no. 137* — curt cool | you-made-it screen |
+| *the real thing* — curt cool | list of best players |
 
 ## Licence
 
-Free to pass on, not to sell -- the details are in [LICENSE](LICENSE). The music
+Free to pass on, not to sell — the details are in [LICENSE](LICENSE). The music
 belongs to its composers and is not covered by this licence.
